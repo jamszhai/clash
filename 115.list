@@ -2,10 +2,8 @@
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2024-07-03 16:12:40
-# DOMAIN: 1
 # DOMAIN-SUFFIX: 9
-# TOTAL: 10
-DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
+# TOTAL: 9
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,115cdn.com
 DOMAIN-SUFFIX,115cdn.net
